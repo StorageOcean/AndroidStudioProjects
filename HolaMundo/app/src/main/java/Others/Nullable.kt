@@ -1,0 +1,4 @@
+package Others
+
+class Nullable {
+}
